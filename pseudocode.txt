@@ -1,0 +1,19 @@
+Memory Flash Cards – How the Game Works:
+
+
+	1-First prepare 8 different images. Each image should have a duplicate so there are 16 cards in total.
+
+	2-Place all the cards face down so the player cannot see the images at the start.
+
+	3-Start the timer and keep track of the number of matches.
+
+	4-The player selects a card to flip over:
+	If its the first card just remember it.
+
+	If its the second card compare it with the first one:
+	If the images match leave both cards face up and increase the match count.
+	If they dont match flip both cards back down after a short pause.
+
+	5-Continue this process until all matches are found.
+
+	6-Stop the timer and display the results: total time and total matches.

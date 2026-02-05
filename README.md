@@ -1,9 +1,10 @@
 # Memory-Flash-Cards
 
-## Date: 2/2026
+## Date: 2/5/2026
+
 ### By: Mahmood Adel
 
-#### [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://yourwebsite.com)
+#### [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://github.com/auomyutb/Memory-Flash-Cards?tab=readme-ov-file)
 ***
 
 ### ***Description***
@@ -28,7 +29,7 @@ this is a Memory Flash Cards for project 1 of my software engineering Bootcamp w
 ![Screenshot 1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.PDlm3trgAkY6pGPcbRt4SQHaEK)
 
 ##### Example Feature
-![Screenshot 2](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.buntINTHFLyDODyMKXNYcgHaEK)
+![Screenshot 2](https://i.imgur.com/1iM9e4U.png)
 ***
 
 ### ***Future Updates***
