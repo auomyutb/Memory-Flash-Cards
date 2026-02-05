@@ -26,10 +26,8 @@ this is a Memory Flash Cards for project 1 of my software engineering Bootcamp w
 ### ***Screenshots***
 
 ##### Main Page
-![Screenshot 1](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.PDlm3trgAkY6pGPcbRt4SQHaEK)
 
-##### Example Feature
-![Screenshot 2](https://i.imgur.com/1iM9e4U.png)
+![Screenshot 1](https://i.imgur.com/1iM9e4U.png)
 ***
 
 ### ***Future Updates***
