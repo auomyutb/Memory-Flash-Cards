@@ -23,15 +23,16 @@ let matches = 0
 let seconds = 0
 let timer
 let canFlip = true
-let card = document.createElement("div")
-let cards = images.concat(images)
-let board = document.getElementById("gameBoard")
-let min = Math.floor(seconds / 60)
 
 function startGame() {
+  let board = document.getElementById("gameBoard")
+  board.innerHTML = ""
+
+  let cards = images.concat(images)
   cards.sort(() => Math.random() - 0.5)
 
   cards.forEach((img) => {
+    let card = document.createElement("div")
     card.className = "card"
     card.dataset.image = img
 
@@ -98,6 +99,7 @@ function updateStats() {
   document.getElementById("moves").textContent = moves
   document.getElementById("matches").textContent = matches + "/8"
 
+  let min = Math.floor(seconds / 60)
   sec = seconds % 60
   document.getElementById("time").textContent =
     min + ":" + (sec < 10 ? "0" : "") + sec
