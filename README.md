@@ -1,10 +1,10 @@
 # Memory-Flash-Cards
 
-## Date: 2/5/2026
+## Date: 2/11/2026
 
 ### By: Mahmood Adel
 
-#### [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://github.com/auomyutb/Memory-Flash-Cards?tab=readme-ov-file)
+#### [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Website](https://bright-cows.surge.sh/)
 ***
 
 ### ***Description***
@@ -27,17 +27,20 @@ this is a Memory Flash Cards for project 1 of my software engineering Bootcamp w
 
 ##### Main Page
 
-![Screenshot 1](https://i.imgur.com/1iM9e4U.png)
+![Screenshot 1](https://i.imgur.com/NkT4Xo6.png)
+
+##### Game Page
+
+![Screenshot 1](https://i.imgur.com/AE3tuab.png)
+
+
+
 ***
 
 ### ***Future Updates***
-- [ ] Improve UI design
-- [ ] Add more features
-- [x] Basic functionality completed
-- [x] ~~Old design removed~~
+- [x] Improve UI design
+- [x] Add more features
 ***
 
 ### ***Credits***
-* Images: [DuckDuckGo](https://duckduckgo.com)
-* Markdown Reference: [Markdown Guide](https://www.markdownguide.org)
-* Documentation Help: [MDN Web Docs](https://developer.mozilla.org)
+* Images: [imgur](https://imgur.com/a/gehWaGc)

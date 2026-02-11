@@ -1,6 +1,4 @@
 Memory Flash Cards – How the Game Works:
-
-
 	1-First prepare 8 different images. Each image should have a duplicate so there are 16 cards in total.
 
 	2-Place all the cards face down so the player cannot see the images at the start.
@@ -12,7 +10,7 @@ Memory Flash Cards – How the Game Works:
 
 	If its the second card compare it with the first one:
 	If the images match leave both cards face up and increase the match count.
-	If they dont match flip both cards back down after a short pause.
+	If they don't match flip both cards back down after a short pause.
 
 	5-Continue this process until all matches are found.
 
